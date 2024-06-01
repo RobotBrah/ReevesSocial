@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .profile-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 10px; /* Optional, for spacing between items */
+            background-color: rgb(233, 239, 241);
+            width: 220px; /* Adjusted width to accommodate borders */
+            height: auto; /* Height should be automatic to fit content */
+            border-width: 5px;
+            border-style: solid;
+            box-shadow: 5px 5px 15px;
+            margin: 10px; /* Optional, to add space between grid containers */
+        }
+        .profile-container {
+            display: inline-block;
+            width: 190px;
+            height: auto; /* Height should adjust to fit content */
+            vertical-align: top;
+        }
+        .img {
+            width: 200px;
+            height: 160px;
+            display: block;
+        }
+        .profile-details {
+            width: 190px;
+            padding: 10px;
+        }
+        .profile-details p {
+            margin: 0; /* Remove default margin */
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .profile-details p:first-child {
+            font-size: 22px;
+            font-weight: bold;
+        }
+        .follow-button {
+            width: 80px;
+            height: 30px;
+            border-radius: 7px;
+            background-color: rgb(38, 144, 214);
+            border: none;
+            color: white;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="profile-grid">
+    <img class="img" src="HTMLTUT/img/selling image.PNG" alt="Rasputin">
+    <div class="profile-container">
+        <div class="profile-details">
+            <p>Rasputin</p>
+            <p>5 followers</p>
+            <button class="follow-button">Follow</button>
+        </div>
+    </div>
+</div>
+
+<div class="profile-grid">
+    <img class="img" src="HTMLTUT/img/selling image.PNG" alt="Rasputin">
+    <div class="profile-container">
+        <div class="profile-details">
+            <p>Rasputin</p>
+            <p>5 followers</p>
+            <button class="follow-button">Follow</button>
+        </div>
+    </div>
+</div>
+
+<div class="profile-grid">
+    <img class="img" src="HTMLTUT/img/selling image.PNG" alt="Rasputin">
+    <div class="profile-container">
+        <div class="profile-details">
+            <p>Rasputin</p>
+            <p>5 followers</p>
+            <button class="follow-button">Follow</button>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

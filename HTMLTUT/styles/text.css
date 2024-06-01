@@ -1,0 +1,137 @@
+.video-title {
+                
+    font-family: Roboto; 
+    font-size: 30px;
+    font-weight: bold;
+    font-style:italic;
+    text-align: left; 
+    line-height: 25x;
+    }
+    
+    
+    
+    style
+    p {
+         font-family: arial;
+         margin-top: 0;
+         margin-bottom: 0;
+         padding-top: 0;
+         padding-bottom: 0;
+        }
+    
+    
+    </style>
+     
+    
+    <p>
+        <p class="video-title">
+        Enroll to get a Certificate of Completion and an elevated
+         learning experience (breakdown into smaller videos co
+         vering specific topics, ad-free content, and progress
+          tracking).
+        
+    
+    
+    
+    <style>
+        .video-stats {
+            font-family: Arial;
+            font-size: 20px;
+            color:green;
+          
+    }
+        .video-author{
+            color: green;
+            font-size: 14px;
+    
+    
+    }
+    
+    .scab{
+    
+    font-family: Arial;
+    font-size: 14px;
+    color: green;
+    width: 200px;
+    margin-bottom: 100px;
+    
+    }
+    
+    .apple-text{
+        margin-bottom: 50px;
+        font-size: 14px;
+        background-color: red;
+        color: whitesmoke;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+    
+    
+    
+    .span-example {
+        color: red;
+    }
+    .span-example:hover{
+        text-decoration: underline;
+    }
+    .shop-now:hover {
+        cursor:pointer;
+        text-decoration: underline;
+    
+    }
+    
+    .new {
+        color: rgba(236, 18, 18, 0.705);
+        font-family: 'arial';
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: smaller;
+        font-weight: bold;
+       
+        
+    }
+    
+    
+    .macbook{
+        font-size: 23px;
+        text-align: center;
+        padding-top: 0px;
+        font-weight: 100px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-weight: bold;
+        font-family: arial;
+    }
+    .buy-button{
+        background-color: rgb(0, 47, 255);
+        font-weight: bold;
+        color: white;
+        width: 50;
+        height: 25;
+        border: none;
+        border-radius: 20px;
+        text-align: center;
+        margin-left: 720px;
+    
+    }
+    .buy-button:hover {
+        cursor: pointer;
+    
+    }
+    .supercharged {
+        text-align: center;
+        font-weight: bolder;
+        font-size: 40;
+        margin-top: 0;
+        padding-top: 0;
+        font-family: arial;
+        margin-bottom: 0;
+    }
+    .price{
+        text-align: center;
+        font-family: arial;
+        color: rgb(88, 88, 88);
+    
+    
+    }
